@@ -19,12 +19,3 @@ New-Alias -Name "gpt" -Value PATH_TO_SCIPT
 
 
 
-
-## Deployment
-
-To deploy this project run
-
-```
-  npm run deploy
-```
-
